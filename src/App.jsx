@@ -34,36 +34,37 @@ const App = () => {
         <div className="text-center pt-8 border-t border-stone-50 mb-8"> 
           <h2 className="text-3xl font-extrabold text-stone-800 mb-1">{currentBook.title}</h2>
           <p className="text-lg text-stone-400 uppercase tracking-widest">{currentBook.author}</p>
-          
-          <a 
-            href={currentBook.url} 
-            target="_blank" 
-            rel="noreferrer" 
-            className="inline-block mt-4 text-stone-300 hover:text-stone-500 text-[15px] underline underline-offset-4"
-          >
-            View Details
-          </a>
         </div>
 
-      {/* 카드 레이아웃 */}
-      <div className={`w-full max-w-sm bg-white rounded-3xl shadow-[0_20px_50px_rgba(0,0,0,0.05)] overflow-hidden transition-all duration-500 transform ${fade ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
-        <div className="p-10">
-          {/* 책 표지 */}
-          <div className="flex justify-center mb-10">
-            <div className="relative group">
-              <div className="absolute -inset-1 bg-stone-200 rounded blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
-              <img 
-                src={currentBook.thumbnail} 
-                className="relative w-36 h-52 object-cover rounded-lg shadow-2xl" 
-                alt="book cover" 
-              />
-            </div>
+            {/* 카드 레이아웃 */}
+            <div className={`w-full max-w-sm bg-white rounded-3xl shadow-[0_20px_50px_rgba(0,0,0,0.05)] overflow-hidden transition-all duration-500 transform ${fade ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
+              <div className="p-10">
+           {/* 책 표지 */}
+              <div className="flex justify-center mb-10">
+        <a 
+          href={currentBook.url} 
+          target="_blank" 
+          rel="noreferrer" 
+          className="relative group cursor-pointer transition-transform active:scale-95"
+        >
+          {/* 이미지 호버 시 살짝 밝아지는 효과 추가 */}
+          <div className="absolute -inset-1 bg-stone-200 rounded blur opacity-0 group-hover:opacity-40 transition duration-500"></div>
+          <img 
+            src={currentBook.thumbnail} 
+            className="relative w-40 h-56 object-cover rounded-lg shadow-2xl transition-all group-hover:shadow-stone-300" 
+            alt="book cover" 
+          />
+          
+          {/* 안내 툴팁 (선택 사항: 사진 위에 살짝 띄움) */}
+          <div className="absolute bottom-[-25px] left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity text-[10px] text-stone-400 whitespace-nowrap">
+            Click to view details
           </div>
+        </a>
+      </div>    
 
           {/* 인용구 */}
-          <div className="relative mb-10">
-            <span className="absolute -top-4 -left-2 text-6xl text-stone-100 font-serif">“</span>
-            <p className="relative text-lg text-stone-700 leading-relaxed text-center px-2 italic">
+          <div className="relative mb-10 -mx-4">
+            <p className="relative text-lg text-stone-700 leading-relaxed text-center px-0 italic">
               {currentBook.contents || currentBook.content} 
             </p>
           </div>

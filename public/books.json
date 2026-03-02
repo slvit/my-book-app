@@ -8,22 +8,6 @@
         "url": "https://search.daum.net/search?w=bookpage&bookId=540980&q=%EB%A9%B4%EB%8F%84%EB%82%A0"
     },
     {
-        "title": "임파워드",
-        "author": "마티 케이건, 크리스 존스",
-        "publisher": "제이펍",
-        "content": "고용이 아니라 특별한 제품을 만들면서 발생하는 어려운 문제를 서로 협력하여 해결할 수 있도록 하는 방법에 있다.  실리콘밸리 프로덕트 그룹(SVPG)의 파트너인 마티 케이건과 크리스 존스는 혁신을 지속하는 세계적인 기업의 모범 사례를 발굴하기 위해 오랫동안 노력해 왔다. 베스트셀러 《인스파이어드》와 필연적으로 연결되는 주제인 《임파워드》는 많은 기업이 제품 혁신을 하자면서도 직원의 잠재력을 활용하지 못하는 이유인 ‘제품 리더십의 부재’를 정면으로 다룬다",
-        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F5872962%3Ftimestamp%3D20260106145246",
-        "url": "https://search.daum.net/search?w=bookpage&bookId=5872962&q=%EC%9E%84%ED%8C%8C%EC%9B%8C%EB%93%9C"
-    },
-    {
-        "title": "블리츠스케일링",
-        "author": "리드 호프만, 크리스 예",
-        "publisher": "쌤앤파커스",
-        "content": "독점의 성장 전략  “행동이 필요한 기회의 창은 대단히 좁고 빨리 닫힌다. 단 몇 개월만 망설여도 도망가는 자와 쫓는 자의 격차가 벌어질 수 있다. 리드 호프먼과 크리스 예의 아이디어들은 압도적으로 현실적이다.” _빌 게이츠  블리츠스케일링(Blitzscaling)은 불확실한 상황에서 위험을 감수하더라도 엄청난 속도로 회사를 키워 압도적인 경쟁우위를 선점하는 기업의 고도성장 전략을 말한다. 기습 공격을 의미하는 ‘블리츠크리그(Blitzkrieg)’와 규모 확장",
-        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F5330830%3Ftimestamp%3D20260116135520",
-        "url": "https://search.daum.net/search?w=bookpage&bookId=5330830&q=%EB%B8%94%EB%A6%AC%EC%B8%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81"
-    },
-    {
         "title": "케이크와 맥주",
         "author": "서머싯 몸",
         "publisher": "민음사",
@@ -280,14 +264,6 @@
         "url": "https://search.daum.net/search?w=bookpage&bookId=5641437&q=%EC%95%84%EC%9D%B4%EB%8A%94+%EC%99%9C+%ED%8F%B4%EB%A0%8C%ED%83%80+%EC%86%8D%EC%97%90%EC%84%9C+%EB%81%93%EB%8A%94%EA%B0%80"
     },
     {
-        "title": "GPT 제너레이션: 챗GPT가 바꿀 우리 인류의 미래",
-        "author": "이시한",
-        "publisher": "북모먼트",
-        "content": "인류의 미래를 바꿀 신기술 챗GPT, 드디어 세상에 없던 산업이 등장하다『GPT 제너레이션: 챗GPT가 바꿀 우리 인류의 미래』. 자고 일어나면 새로운 트렌드가 생겨나는 요즘, 인류의 미래는 시시각각 변하고 있다. Open AI가 발표한 챗GPT는 발표되자마자 전세계의 이목을 집중시키며 5일 만에 유저 100만 명을 모았고, 월간 사용자수 또한 2개월 만에 1억 명을 돌파했다. 챗GPT 등장 이전에도 대화형 인공지능은 꾸준히 발표되어 왔지만, 유독 챗",
-        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F6287259%3Ftimestamp%3D20250904142001",
-        "url": "https://search.daum.net/search?w=bookpage&bookId=6287259&q=GPT+%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%EC%85%98%3A+%EC%B1%97GPT%EA%B0%80+%EB%B0%94%EA%BF%80+%EC%9A%B0%EB%A6%AC+%EC%9D%B8%EB%A5%98%EC%9D%98+%EB%AF%B8%EB%9E%98"
-    },
-    {
         "title": "혐오의 즐거움에 관하여",
         "author": "윌리엄 해즐릿",
         "publisher": "아티초크",
@@ -342,5 +318,61 @@
         "content": "퓰리처상을 수상한 존 케네디 툴의 풍자 희비극 『바보들의 결탁』. 작가의 데뷔작이자 유작인 이 소설은 작가 사후 11년 만인 1980년에 출간되어 큰 화제를 불러일으키며 상업적 성공까지 거두었다. 1960년대 초 뉴올리언스. 중세를 흠모하고 타락한 현대문명을 비판하는 장문의 고발장을 쓰며 어머니에게 얹혀사는 서른 살 청년 이그네이셔스가 있다. 그는 자신이 이 세상에 속하지 않으며, 자신의 독특한 세계관을 남들은 두려워하고 증오한다고 생각한다. 그렇게 지금껏",
         "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F1453842%3Ftimestamp%3D20230728203737",
         "url": "https://search.daum.net/search?w=bookpage&bookId=1453842&q=%EB%B0%94%EB%B3%B4%EB%93%A4%EC%9D%98+%EA%B2%B0%ED%83%81"
+    },
+    {
+        "title": "셔터우의 세 자매",
+        "author": "천쓰홍",
+        "publisher": "민음사",
+        "content": "무엇보다 샤오(蕭) 씨 성을 지닌 사람들이 많은 일종의 집성촌이다. 한때 전 세계로 팔려 나가던 양말의 수출이 시들해지고 공장들이 대거 문을 닫으면서, 마을은 점차 활기와 동력을 잃게 된다. 셔터우의 샤오 씨들 중에서도 가장 유명한 건 점을 봐주는 삼합원 건물의 샤오 씨 세 자매다. 같은 아버지, 각기 다른 세 어머니에게서 한날한시에 태어난 세 자매는 각각 1호, 2호, 3호라고 불린다. 이들에겐 타이완의 무당과도 같은 존재인 ‘계동’인 할아버지가 있었고, 아버지",
+        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F7143063%3Ftimestamp%3D20260214121203",
+        "url": "https://search.daum.net/search?w=bookpage&bookId=7143063&q=%EC%85%94%ED%84%B0%EC%9A%B0%EC%9D%98+%EC%84%B8+%EC%9E%90%EB%A7%A4"
+    },
+    {
+        "title": "기억의 빛(세계문학전집 455)",
+        "author": "마이클 온다치",
+        "publisher": "민음사",
+        "content": "세계로 우리를 데려간다. _허마이오니 리, 《뉴욕 리뷰 오브 북스》   『잉글리시 페이션트』로 영미권 최고의 문학상인 부커상을 수상하고, 『아닐의 유령』으로 캐나다 최고의 문학상인 길러상을 수상한 작가 마이클 온다치의 장편 소설 『기억의 빛』이 민음사 세계문학전집 455번으로 출간되었다. 온다치는 『잉글리시 페이션트』로 지금까지의 모든 부커상 수상작 중 ‘왕 중 왕’을 가리는 골든 부커상을 수상한, 마거릿 애트우드와 함께 캐나다를 대표하는 작가로 꼽힌다",
+        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F6827402%3Ftimestamp%3D20250909142438",
+        "url": "https://search.daum.net/search?w=bookpage&bookId=6827402&q=%EA%B8%B0%EC%96%B5%EC%9D%98+%EB%B9%9B%28%EC%84%B8%EA%B3%84%EB%AC%B8%ED%95%99%EC%A0%84%EC%A7%91+455%29"
+    },
+    {
+        "title": "우울: 공적 감정",
+        "author": "앤 츠베트코비치",
+        "publisher": "마티",
+        "content": "우울은 개인이 책임져야 할 심리적 문제일까? 가능한 한 빨리 벗어나야 할 질병일 뿐일까? 우울은 단순히 개인적이고 병리적인 상태가 아니라, 사회적이고 역사적인 맥락에서 이해해야 할 공적 감정이다. 이 책은 현시대에 만연한 우울한 삶을 쉽게 비관하지도 단순한 처방을 내리지도 않으면서, 주류 정신건강 담론에 도전하며 우울에서 정치적이고 창조적인 새로운 가능성을 찾는다.",
+        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F6862523%3Ftimestamp%3D20260213121856",
+        "url": "https://search.daum.net/search?w=bookpage&bookId=6862523&q=%EC%9A%B0%EC%9A%B8%3A+%EA%B3%B5%EC%A0%81+%EA%B0%90%EC%A0%95"
+    },
+    {
+        "title": "진 브로디 선생의 전성기",
+        "author": "뮤리얼 스파크",
+        "publisher": "문학동네",
+        "content": "스코틀랜드 작가 뮤리얼 스파크의 대표작 『진 브로디 선생의 전성기』가 문학동네 세계문학전집 160번으로 출간된다. 인간의 본질을 꿰뚫는 날카로운 시선과 타고난 유머, 기발한 재치가 담긴 이 소설은 영화, 연극, 텔레비전 시리즈로 수차례 각색되며 문단과 대중 모두에게 큰 관심을 받았다. 뮤리얼 스파크는 이 작품으로 세계적인 명성을 얻었고, ‘진 브로디 선생’이라는 독보적인 캐릭터는 전후문학의 기념비적인 인물이라는 평가를 받으며 당대의 문화적 아이콘으로",
+        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F694311%3Ftimestamp%3D20231206143352",
+        "url": "https://search.daum.net/search?w=bookpage&bookId=694311&q=%EC%A7%84+%EB%B8%8C%EB%A1%9C%EB%94%94+%EC%84%A0%EC%83%9D%EC%9D%98+%EC%A0%84%EC%84%B1%EA%B8%B0"
+    },
+    {
+        "title": "세컨드핸드 타임",
+        "author": "스베틀라나 알렉시예비치",
+        "publisher": "이야기가있는집",
+        "content": "2015년 노벨문학상 수상작가이자 ‘목소리 소설’이라는 독창적인 장르를 개척한 스베틀라나 알렉시예비치의 최신작 『세컨드핸드 타임』이 출간되었다. 소비에트 시대의 최종 완결이라고 할 수 있는 이 책은 소련의 붕괴에 주목하여 살아남은 자들의 목소리를 통해 공산주의 체제 붕괴 이후 20년 동안 소비에트 사회의 변화와 사람들의 상실감, 사회에 적응하는 과정 등의 정신적인 변화를 담아내고 있다. 독일에서 출간된 지 일주일 만에 9,000부가 판매되었으며, 프랑스",
+        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F1636872%3Ftimestamp%3D20240427113914",
+        "url": "https://search.daum.net/search?w=bookpage&bookId=1636872&q=%EC%84%B8%EC%BB%A8%EB%93%9C%ED%95%B8%EB%93%9C+%ED%83%80%EC%9E%84"
+    },
+    {
+        "title": "채사장의 지대넓얕 4: 보이지 않는 손",
+        "author": "채사장, 마케마케",
+        "publisher": "돌핀북",
+        "content": "지난 몇 년간 국내 인문학 열풍의 핵심은 《지적 대화를 위한 넓고 얕은 지식》 시리즈, 그리고 작가 채사장이었다. 그 어떤 이론보다 쉽고 재미있는 설명, 방대하고 복잡한 인문학을 하나의 흐름으로 꿰어낸 통찰력에 대중은 열광했다. 책의 제목을 줄인 ‘지대넓얕’이라는 말은 생소하지만 특별한 하나의 대명사가 되었다. 이 ‘지대넓얕’ 시리즈는 어느덧 팔순 어르신부터 중학생까지도 읽는 국민 교양서로 현재까지 그 명성을 이어가는 중이다.  이 책은 ‘지대넓얕",
+        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F6137872%3Ftimestamp%3D20251108150212",
+        "url": "https://search.daum.net/search?w=bookpage&bookId=6137872&q=%EC%B1%84%EC%82%AC%EC%9E%A5%EC%9D%98+%EC%A7%80%EB%8C%80%EB%84%93%EC%96%95+4%3A+%EB%B3%B4%EC%9D%B4%EC%A7%80+%EC%95%8A%EB%8A%94+%EC%86%90"
+    },
+    {
+        "title": "우리읍내",
+        "author": "Thornton Wilder",
+        "publisher": "예니",
+        "content": "오세곤 희곡번역 시리즈 제1권 『우리읍내』. 뉴 햄프셔 주 그로버즈 코너즈에서 일어난 일이다. 공연시간과 대사간의 템포를 고려하여 번역대사의 길이를 가능한 원문과 비슷하게 맞췄다. 인명이나 지명의 명시가 우리의 언어습관과 어긋나는 경우 생략하고 주석이나 지문 등을 활용하여 처리했다.",
+        "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F1186790%3Ftimestamp%3D20250801110456",
+        "url": "https://search.daum.net/search?w=bookpage&bookId=1186790&q=%EC%9A%B0%EB%A6%AC%EC%9D%8D%EB%82%B4"
     }
 ]

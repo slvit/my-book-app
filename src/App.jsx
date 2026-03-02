@@ -31,14 +31,14 @@ const App = () => {
   return (
     <div className="min-h-screen bg-[#f8f5f2] flex flex-col items-center justify-center p-6 font-serif">
       {/* 도서 정보 */}
-        <div className="text-center pt-8 border-t border-stone-50 mb-8"> 
+        <div className="text-center pt-8 mb-4"> 
           <h2 className="text-3xl font-extrabold text-stone-800 mb-1">{currentBook.title}</h2>
           <p className="text-lg text-stone-400 uppercase tracking-widest">{currentBook.author}</p>
         </div>
 
             {/* 카드 레이아웃 */}
-            <div className={`w-full max-w-sm bg-white rounded-3xl shadow-[0_20px_50px_rgba(0,0,0,0.05)] overflow-hidden transition-all duration-500 transform ${fade ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
-              <div className="p-10">
+            <div className={`w-full max-w-sm bg-white rounded-3xl shadow-[0_20px_50px_rgba(0,0,0,0.05)] overflow-hidden transition-all duration-500 transform ${fade ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'} min-h-[650px] flex flex-col`}>
+              <div className="p-9">
            {/* 책 표지 */}
               <div className="flex justify-center mb-10">
         <a 
@@ -74,7 +74,7 @@ const App = () => {
       {/* 플로팅버튼 */}
           <button 
   onClick={nextBook}
-  className="fixed bottom-10 left-6 right-6 z-50 flex items-center justify-center gap-3 bg-stone-800 text-white py-4 rounded-xl shadow-2xl hover:bg-stone-700 active:scale-95 transition-all"
+  className="fixed bottom-5 left-6 right-6 z-50 flex items-center justify-center gap-3 bg-stone-800 text-white py-4 rounded-xl shadow-2xl hover:bg-stone-700 active:scale-95 transition-all"
 >
   <RefreshCw 
     size={20} 
@@ -83,7 +83,7 @@ const App = () => {
   <span className="text-base tracking-[0.2em] font-bold uppercase">다음</span>
 </button>
 
-          <footer className="mt-20 text-stone-300 text-[10px] tracking-widest pb-20">
+          <footer className="mt-20 text-stone-300 text-[10px] tracking-widest pb-2">
             © 2026 CURATED BY BOOKLOVERS
           </footer>
         </div>

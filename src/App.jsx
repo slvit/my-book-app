@@ -72,15 +72,15 @@ const App = () => {
 
       {/* 플로팅버튼 */}
           <button 
-            onClick={nextBook}
-            className="fixed bottom-12 left-1/2 -translate-x-1/2 z-50 flex items-center gap-3 bg-stone-800 text-white px-8 py-4 rounded-full shadow-2xl hover:bg-stone-700 active:scale-95 transition-all"
-       >
-        <RefreshCw 
-          size={18} 
-          className={!fade ? 'animate-spin' : ''} 
-        />
-        <span className="text-sm tracking-[0.15em] font-medium uppercase">Next Quote</span>
-          </button>
+  onClick={nextBook}
+  className="fixed bottom-10 left-6 right-6 z-50 flex items-center justify-center gap-3 bg-stone-800 text-white py-4 rounded-xl shadow-2xl hover:bg-stone-700 active:scale-95 transition-all"
+>
+  <RefreshCw 
+    size={20} 
+    className={!fade ? 'animate-spin' : ''} 
+  />
+  <span className="text-base tracking-[0.2em] font-bold uppercase">다음</span>
+</button>
 
           <footer className="mt-20 text-stone-300 text-[10px] tracking-widest pb-20">
             © 2026 CURATED BY BOOKLOVERS
